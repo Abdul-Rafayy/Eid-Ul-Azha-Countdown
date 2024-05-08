@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(https://cdnholidays.blueberrygroup.org/BlogImage/ee66a9de-a167-4da2-8094-6d26163039f5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#box {
+    font-size: 2rem;
+    margin-top: 41%;
+    border: 2px solid black;
+    background-color: rgb(220, 220, 147);
+    
+}
